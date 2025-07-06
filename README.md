@@ -26,7 +26,7 @@ A simple, standalone desktop application to **generate unique barcodes** for pro
 <p align="center">
   <img src="https://github.com/greatvaibhaw/Unique-Barcode-Generator/blob/master/Barcode/assets/Screenshot%202025-07-06%20at%209.19.25%E2%80%AFAM.png" alt="Setting Up Database"/>
   <br/><br/>
-  <img src="https://github.com/greatvaibhaw/Unique-Barcode-Generator/blob/master/Barcode/assets/Screenshot%202025-07-06%20at%209.19.41%E2%80%AFAM.png" alt="Application Interface/>
+  <img src="https://github.com/greatvaibhaw/Unique-Barcode-Generator/blob/master/Barcode/assets/Screenshot%202025-07-06%20at%209.19.41%E2%80%AFAM.png" alt="Application Interface"/>
   <br/><br/>
   <img src="https://github.com/greatvaibhaw/Unique-Barcode-Generator/blob/master/Barcode/assets/Screenshot%202025-07-06%20at%209.19.47%E2%80%AFAM.png" alt="Generated View of Barcode"/>
    <br/><br/>
